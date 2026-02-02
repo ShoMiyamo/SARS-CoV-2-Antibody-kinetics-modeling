@@ -67,3 +67,5 @@ from Miyamoto et al., Communications Medicine (2025):
   - cowplot_1.2.0
   - purrr_1.1.0
   - tibble_3.3.0
+  - brms_2.23.0
+  - mgcv_1.9-3

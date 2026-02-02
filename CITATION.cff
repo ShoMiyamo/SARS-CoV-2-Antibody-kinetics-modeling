@@ -1,0 +1,14 @@
+cff-version: 1.0
+message: "This repository provides R/Stan scripts to model longitudinal SARS‑CoV‑2 antibody kinetics (e.g., anti‑Spike binding antibody and neutralizing titers) and to translate antibody levels into predicted protection against symptomatic infection.
+
+Please cite the associated preprint when using this code:
+[Numakura & Miyamoto et al., medRxiv, 2025](https://doi.org/10.1101/2025.11.14.25340279)"
+authors:
+- family-names: "Miyamoto"
+  given-names: "Sho"
+  orcid: https://orcid.org/0000-0001-6541-1722
+title: "R and Stan codes for SARS-CoV-2 Antibody kinetics modeling"
+doi: 10.5281/zenodo.18454709
+version: v1.2
+date-released: 2026-02-02
+url: "https://github.com/ShoMiyamo/SARS-CoV-2-Antibody-kinetics-modeling"

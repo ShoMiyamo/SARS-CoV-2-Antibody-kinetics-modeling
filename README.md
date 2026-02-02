@@ -1,5 +1,5 @@
 ## R/Stan codes for SARS-CoV-2 Antibody kinetics modeling
-[![DOI](https://zenodo.org/badge/898850069.svg)](https://doi.org/10.5281/zenodo.14906348)
+[![DOI](https://zenodo.org/badge/1147695304.svg)](https://doi.org/10.5281/zenodo.18454709)
 
 This repository provides R/Stan scripts to model longitudinal SARS‑CoV‑2 antibody kinetics
 (e.g., anti‑Spike binding antibody and neutralizing titers) and to translate antibody levels

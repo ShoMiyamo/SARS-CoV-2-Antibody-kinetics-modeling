@@ -1,14 +1,44 @@
-cff-version: 1.0
-message: "This repository provides R/Stan scripts to model longitudinal SARS‑CoV‑2 antibody kinetics (e.g., anti‑Spike binding antibody and neutralizing titers) and to translate antibody levels into predicted protection against symptomatic infection.
 
-Please cite the associated preprint when using this code:
-[Numakura & Miyamoto et al., medRxiv, 2025](https://doi.org/10.1101/2025.11.14.25340279)"
+cff-version: 1.2.0
+message: |
+  This repository provides R/Stan scripts to model longitudinal SARS-CoV-2 antibody kinetics (e.g., anti-Spike binding antibody and neutralizing titers) and to translate antibody levels into predicted protection against symptomatic infection.
+
+  If you use this software, please cite the associated preprint:
+  Numakura K, Miyamoto S, Sataka A, Takeyama H, Suzuki T. medRxiv (2025).
+  https://doi.org/10.1101/2025.11.14.25340279
+
+type: software
+title: "R and Stan codes for SARS-CoV-2 antibody kinetics modeling"
+
 authors:
-- family-names: "Miyamoto"
-  given-names: "Sho"
-  orcid: https://orcid.org/0000-0001-6541-1722
-title: "R and Stan codes for SARS-CoV-2 Antibody kinetics modeling"
-doi: 10.5281/zenodo.18454709
-version: v1.2
-date-released: 2026-02-02
+  - family-names: Miyamoto
+    given-names: Sho
+    orcid: "https://orcid.org/0000-0001-6541-1722"
+
+doi: "10.5281/zenodo.18454709"
+version: "v1.2"
+date-released: "2026-02-02"
+
 url: "https://github.com/ShoMiyamo/SARS-CoV-2-Antibody-kinetics-modeling"
+repository-code: "https://github.com/ShoMiyamo/SARS-CoV-2-Antibody-kinetics-modeling"
+
+preferred-citation:
+  type: article
+  title: "Predicting long-term waning of anti-spike antibody-dependent protection against COVID-19 across diverse SARS-CoV-2 immune histories"
+  authors:
+    - family-names: Numakura
+      given-names: Koki
+    - family-names: Miyamoto
+      given-names: Sho
+      orcid: "https://orcid.org/0000-0001-6541-1722"
+    - family-names: Sataka
+      given-names: Akiko
+    - family-names: Takeyama
+      given-names: Haruko
+    - family-names: Suzuki
+      given-names: Tadaki
+  journal: "medRxiv"
+  year: 2025
+  month: 11
+  day: 17
+  doi: "10.1101/2025.11.14.25340279"

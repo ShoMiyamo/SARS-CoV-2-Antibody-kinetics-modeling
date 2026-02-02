@@ -56,8 +56,10 @@ from Miyamoto et al., Communications Medicine (2025):
   Optional: saved fitted objects (`.Rds`) or intermediate outputs used by scripts.
 
 ## Data requirements 
-# Source data (antibody kinetics)
-The source dataset used for antibody-kinetics fitting is provided as **Supplementary/Source Data** in the manuscript.
+
+**Source data (antibody kinetics)**
+The source dataset used for antibody-kinetics fitting is provided as Supplementary/Source Data in the manuscript.
+
 
 ## Dependencies
 - R version 4.5.2 (2025-10-31)

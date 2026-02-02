@@ -1,7 +1,7 @@
 # R codes for SARS-CoV-2-Antibody-kinetics-modeling
 
 ## Summary
-This repository contains computational codes used in [Miyamoto et al., medRxiv, 2025](https://doi.org/10.1101/2025.11.14.25340279).
+This repository contains computational codes used in [Numakura & Miyamoto et al., medRxiv, 2025](https://doi.org/10.1101/2025.11.14.25340279).
 
 ## Contents
 - script

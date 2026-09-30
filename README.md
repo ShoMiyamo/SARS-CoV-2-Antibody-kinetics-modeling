@@ -5,8 +5,8 @@ This repository provides R/Stan scripts to model longitudinal SARS‑CoV‑2 ant
 (e.g., anti‑Spike binding antibody and neutralizing titers) and to translate antibody levels
 into predicted protection against symptomatic infection.
 
-Please cite the associated preprint when using this code:
-- [Numakura & Miyamoto et al., medRxiv, 2025](https://doi.org/10.1101/2025.11.14.25340279)
+Please cite the associated published article when using this code:
+- Numakura K, Miyamoto S, Sataka A, Takeyama H, Suzuki T. [Long-term antibody waning and antibody-associated protection across diverse SARS-CoV-2 immune histories](https://doi.org/10.1038/s44528-026-00021-6). *Communications Health* **1**, 24 (2026). Published 1 September 2026.
 
 Some downstream “correlates of protection” steps use pre‑fitted brms/GAM models
 from Miyamoto et al., Communications Medicine (2025):

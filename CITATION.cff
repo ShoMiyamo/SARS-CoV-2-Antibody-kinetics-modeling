@@ -3,9 +3,11 @@ cff-version: 1.2.0
 message: |
   This repository provides R/Stan scripts to model longitudinal SARS-CoV-2 antibody kinetics (e.g., anti-Spike binding antibody and neutralizing titers) and to translate antibody levels into predicted protection against symptomatic infection.
 
-  If you use this software, please cite the associated preprint:
-  Numakura K, Miyamoto S, Sataka A, Takeyama H, Suzuki T. medRxiv (2025).
-  https://doi.org/10.1101/2025.11.14.25340279
+  If you use this software, please cite the associated published article:
+  Numakura K, Miyamoto S, Sataka A, Takeyama H, Suzuki T.
+  Long-term antibody waning and antibody-associated protection across diverse SARS-CoV-2 immune histories.
+  Communications Health 1, 24 (2026).
+  https://doi.org/10.1038/s44528-026-00021-6
 
 type: software
 title: "R and Stan codes for SARS-CoV-2 antibody kinetics modeling"
@@ -24,7 +26,7 @@ repository-code: "https://github.com/ShoMiyamo/SARS-CoV-2-Antibody-kinetics-mode
 
 preferred-citation:
   type: article
-  title: "Predicting long-term waning of anti-spike antibody-dependent protection against COVID-19 across diverse SARS-CoV-2 immune histories"
+  title: "Long-term antibody waning and antibody-associated protection across diverse SARS-CoV-2 immune histories"
   authors:
     - family-names: Numakura
       given-names: Koki
@@ -37,8 +39,10 @@ preferred-citation:
       given-names: Haruko
     - family-names: Suzuki
       given-names: Tadaki
-  journal: "medRxiv"
-  year: 2025
-  month: 11
-  day: 17
-  doi: "10.1101/2025.11.14.25340279"
+  journal: "Communications Health"
+  volume: 1
+  number: 24
+  year: 2026
+  month: 9
+  date-published: "2026-09-01"
+  doi: "10.1038/s44528-026-00021-6"
